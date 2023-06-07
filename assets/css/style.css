@@ -1,0 +1,36 @@
+#cajaPresupuesto{
+    background-color: rgb(186, 255, 186);
+    border: 2px solid green;
+    padding: 20px;
+    border-radius: 10px; 
+}
+#cajaPresupuesto input {
+    background-color: rgb(186, 255, 186);
+    border: 1px solid green;
+}
+
+#cajaGasto{
+    background-color: rgb(255, 212, 212);
+    border: 2px solid rgb(104, 8, 8);
+    padding: 20px;
+    border-radius: 10px; 
+}
+#cajaGasto input {
+    background-color: rgb(255, 212, 212);
+    border: 1px solid rgb(104, 8, 8);
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.titulos {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.tablaGastos {
+    margin-top: 130px;
+    margin-left: 20px;
+}
